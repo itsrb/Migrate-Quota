@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <gb_status>
+    <text>Status</text>
+  </gb_status>
+  <btn_open>
+    <text>Öffnen</text>
+  </btn_open>
+  <btn_insertQuotas>
+    <text>Senden</text>
+  </btn_insertQuotas>
+  <btn_searchQuotaList>
+    <text>Suchen</text>
+  </btn_searchQuotaList>
+  <lb_passwort>
+    <text>Passwort</text>
+  </lb_passwort>
+  <lb_username>
+    <text>Benutzername</text>
+  </lb_username>
+  <lb_fileserver>
+    <text>Servername</text>
+  </lb_fileserver>
+  <lb_quotaListPath>
+    <text>Quotadateipfad</text>
+  </lb_quotaListPath>
+  <lb_template>
+    <text>Template</text>
+  </lb_template>
+  <lb_path>
+    <text>Pfad</text>
+  </lb_path>
+  <lb_currentQuota>
+    <text>Aktuelle Quota</text>
+  </lb_currentQuota>
+  <lb_error>
+    <text>Fehlerhafte</text>
+  </lb_error>
+  <lb_quotaCount>
+    <text>Quotas</text>
+  </lb_quotaCount>
+  <lb_success>
+    <text>Erfolgreich</text>
+  </lb_success>
+</root>

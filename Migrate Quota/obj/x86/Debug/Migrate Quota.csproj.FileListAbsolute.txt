@@ -1,0 +1,10 @@
+c:\users\biwer-r\documents\visual studio 2010\Projects\Migrate Quota\Migrate Quota\bin\Debug\Migrate Quota.exe
+c:\users\biwer-r\documents\visual studio 2010\Projects\Migrate Quota\Migrate Quota\bin\Debug\Migrate Quota.pdb
+c:\users\biwer-r\documents\visual studio 2010\Projects\Migrate Quota\Migrate Quota\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\biwer-r\documents\visual studio 2010\Projects\Migrate Quota\Migrate Quota\obj\x86\Debug\Migrate_Quota.GUI_migrateQuota.resources
+c:\users\biwer-r\documents\visual studio 2010\Projects\Migrate Quota\Migrate Quota\obj\x86\Debug\Migrate_Quota.Properties.Resources.resources
+c:\users\biwer-r\documents\visual studio 2010\Projects\Migrate Quota\Migrate Quota\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\biwer-r\documents\visual studio 2010\Projects\Migrate Quota\Migrate Quota\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\biwer-r\documents\visual studio 2010\Projects\Migrate Quota\Migrate Quota\obj\x86\Debug\Migrate Quota.exe
+c:\users\biwer-r\documents\visual studio 2010\Projects\Migrate Quota\Migrate Quota\obj\x86\Debug\Migrate Quota.pdb
+C:\Users\biwer-r\documents\visual studio 2010\Projects\Migrate Quota\Migrate Quota\obj\x86\Debug\Migrate Quota.g.resources
